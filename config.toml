@@ -1,0 +1,21 @@
+baseURL = 'https://plamantia.com/'
+languageCode = 'en-us'
+title = "Peter."
+theme = "paper"
+
+[params]
+    # show header social icons
+    # twitter = 'YOUR_TWITTER_ID'     # twitter.com/YOUR_TWITTER_ID
+    github = 'peter-lamantia'       # github.com/YOUR_GITHUB_ID
+    instagram = 'peterlamantia' # instagram.com/YOUR_INSTAGRAM_ID
+    # rss = true                      # show rss icon with link
+
+    # show home page profile
+    # avatar = 'peterlamantia5@gmail.com'       # Gravatar email or image url (e.g. "https://deno.land/logo.svg")
+    name = 'Peter LaMantia'
+    bio = "I'm a perpetual student, technical person, and photographer."
+
+    # misc
+    disableHLJS = true              # disable requesting highlight.js
+    monoDarkIcon = true             # show monochrome dark mode icon
+    
