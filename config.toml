@@ -6,8 +6,8 @@ theme = "paper"
 [params]
     # show header social icons
     # twitter = 'YOUR_TWITTER_ID'     # twitter.com/YOUR_TWITTER_ID
-    github = 'peter-lamantia'       # github.com/YOUR_GITHUB_ID
-    instagram = 'peterlamantia' # instagram.com/YOUR_INSTAGRAM_ID
+    github = 'peter-lamantia'         # github.com/YOUR_GITHUB_ID
+    instagram = 'peterlamantia'       # instagram.com/YOUR_INSTAGRAM_ID
     # rss = true                      # show rss icon with link
 
     # show home page profile
